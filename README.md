@@ -6,6 +6,7 @@
 * RDKit
 * Jupyter Notebook
 
+
 ### Suggested readings
 * Gilmer, Justin, et al. "Neural message passing for quantum chemistry." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017. ![PDF](Quantum.pdf)
 * https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780
